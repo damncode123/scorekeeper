@@ -45,4 +45,25 @@ res.addEventListener('click',()=>{
   hone.style.color = '';
   htwo.style.color = '';
 })
+// res.addEventListener('click',()=>{
+//   p1=0;p2=0;
+//   hone.textContent = `0`;
+//   htwo.textContent = `0`;
+//   hone.style.color = '';
+//   htwo.style.color = '';
+// })
+// res.addEventListener('click',()=>{
+//   p1=0;p2=0;
+//   hone.textContent = `0`;
+//   htwo.textContent = `0`;
+//   hone.style.color = '';
+//   htwo.style.color = '';
+// })
+// res.addEventListener('click',()=>{
+//   p1=0;p2=0;
+//   hone.textContent = `0`;
+//   htwo.textContent = `0`;
+//   hone.style.color = '';
+//   htwo.style.color = '';
+// })
 
